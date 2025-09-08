@@ -1,5 +1,3 @@
 # testrepo
 
-## Editing the file
-
-It's a markdown file in the repository.
+## For coursework related to earning a Data Science certificate.
